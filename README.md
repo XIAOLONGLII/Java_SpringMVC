@@ -1,4 +1,20 @@
 # Java Spring MVC
+3-tier architechture: data-service-presentation
+
+## What is MVC Framework 框架—
+Model - view - controller is for designing UI based applications. 
+1. Models: it is responsible for encapsulating application data for view to present
+2. Views: It present data
+3. Controller: it is responsible for receiving requests from users and invoking back-end services for business logic processing.
+
+
+
+
+
+
+
+
+
 
 
 https://spring.io/
